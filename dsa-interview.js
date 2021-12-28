@@ -61,7 +61,7 @@ const data = [
 ];
 
 
-let words = "This is a TEST, WE ARE here testing out this DATA FOR the DSA INTERVIEW. If you cannot PASS this interview... you will not get a certificate. BE SURE to study hard!";
+let words = "This is a TEST, WE ARE here testing out this DATA FOR the DSA INTERVIEW. If you cannot PASS this interview... you will not get a certificate. BE SURE to study hard! You really should study said the teacher...";
 
 
 const map = {};
